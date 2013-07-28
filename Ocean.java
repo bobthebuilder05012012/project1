@@ -17,7 +17,20 @@ import java.util.Arrays;
 
 
  * BLAH BLAH BLAH experimetning with git
+untracked file -> add file -> unmodified
+edit the file -> modified
+sstage the file -> staged, commit -> unomdified
+git add
+
+blingaring
+has stuff changed yet?
+what is the status of this?
+modified. if we do git add Ocean.java, then this will change to staged.
+
  */
+
+
+
 
 public class Ocean {
 
